@@ -9,9 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "antd": "^4.21.7",
     "umi": "^4.0.9",
-    "@weimob/xkd": "1.11.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
