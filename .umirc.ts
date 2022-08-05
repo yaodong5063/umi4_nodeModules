@@ -1,7 +1,7 @@
 export default {
   npmClient: 'yarn',
   // vite:{}
-  // extraBabelIncludes:['demoModule'],
+  extraBabelIncludes:['demoModule'],
   cssLoaderModules:{
     auto:true,
   },
